@@ -5,6 +5,7 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
 ## Contenidos
 * [Quiero dar una charla](#charla)
 * [Quiero echar una mano](#colaborar)
+* [Colaborar como sponsor](https://github.com/gpul-labs/labs2018/wiki/Ser-sponsor)
 * [Videos de actividades](https://archive.org/details/@gpul)
 * [Material de actividades](https://github.com/gpul-labs/labs2018/tree/master/documentacion-charlas/)
 * [Comunidad (Preguntas y respuestas)](#comunidad)
@@ -43,13 +44,9 @@ Como el objetivo de los Labs es apoyar y crear comunidad alrededor del software 
 ## <a name="colaborar">Quiero echar una mano</a>
 Si quieres echar una mano escríbenos también y no te olvides de pedirnos que te metamos en el grupo de Telegram de voluntarios!
 
-Para más información pásate por la [Wiki](https://github.com/gpul-labs/labs2018/wiki) y allí te contamos cómo nos puedes ayudar ;)
-
-Puedes:
-- [Organizar unha charla](https://github.com/gpul-labs/labs2018/wiki/Organizar-una-charla)
-- [Colaborar como sponsor](https://github.com/gpul-labs/labs2018/wiki/Ser-sponsor)
-
 Y por supuesto estamos abiertos a todo tipo de sugerencias y colaboraciones!
+
+## [Colaborar como sponsor](https://github.com/gpul-labs/labs2018/wiki/Ser-sponsor)
 
 ## <a name="comunidad" href="https://forums.gpul.org/">Comunidad (Preguntas y respuestas)</a>
 Es posible que te surjan dudas sobre código o simplemente te gustaría mantener contacto con la gente digitalmente, es por eso por lo que hemos creado un lugar de preguntas y respuestas al estilo *Stack Overflow* para los GPUL Labs ;)
